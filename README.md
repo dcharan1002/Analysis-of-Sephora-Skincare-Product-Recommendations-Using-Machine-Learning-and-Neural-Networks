@@ -1,0 +1,2 @@
+# Analysis-of-Sephora-Skincare-Product-Recommendations-Using-Machine-Learning-and-Neural-Networks
+The beauty and skincare industry is growing, with consumers relying on online reviews for decisions. Sephora, a leading retailer, offers many skincare products, making customer reviews vital in influencing purchases. This project analyzes these reviews to predict product recommendations, helping Sephora optimize its offerings and marketing plans.
